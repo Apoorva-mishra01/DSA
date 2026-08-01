@@ -16,9 +16,18 @@
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Apoorva-mishra01/DSA/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0136-single-number) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Apoorva-mishra01/DSA/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Apoorva-mishra01/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
