@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Apoorva-mishra01/DSA/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/Apoorva-mishra01/DSA/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0136-single-number) |
 ## Bit Manipulation
@@ -30,4 +31,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Apoorva-mishra01/DSA/tree/master/0054-spiral-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Apoorva-mishra01/DSA/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Apoorva-mishra01/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
