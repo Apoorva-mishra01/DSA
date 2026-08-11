@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Apoorva-mishra01/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Apoorva-mishra01/DSA/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/Apoorva-mishra01/DSA/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0136-single-number) |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Apoorva-mishra01/DSA/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Apoorva-mishra01/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
