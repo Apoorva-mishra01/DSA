@@ -9,10 +9,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Apoorva-mishra01/DSA/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Apoorva-mishra01/DSA/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -74,4 +76,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Apoorva-mishra01/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
