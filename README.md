@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Apoorva-mishra01/DSA/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/Apoorva-mishra01/DSA/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -86,4 +87,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Apoorva-mishra01/DSA/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Apoorva-mishra01/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
