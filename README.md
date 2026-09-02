@@ -13,6 +13,7 @@
 | [0069-sqrtx](https://github.com/Apoorva-mishra01/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Apoorva-mishra01/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0509-fibonacci-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Apoorva-mishra01/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0054-spiral-matrix](https://github.com/Apoorva-mishra01/DSA/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0136-single-number) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Apoorva-mishra01/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Apoorva-mishra01/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
