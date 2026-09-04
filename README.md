@@ -30,6 +30,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Apoorva-mishra01/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Apoorva-mishra01/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Apoorva-mishra01/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Apoorva-mishra01/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Apoorva-mishra01/DSA/tree/master/0069-sqrtx) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Apoorva-mishra01/DSA/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
