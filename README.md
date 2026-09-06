@@ -49,6 +49,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Apoorva-mishra01/DSA/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Apoorva-mishra01/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0392-is-subsequence](https://github.com/Apoorva-mishra01/DSA/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0020-valid-parentheses](https://github.com/Apoorva-mishra01/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Apoorva-mishra01/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Apoorva-mishra01/DSA/tree/master/0058-length-of-last-word) |
+| [0392-is-subsequence](https://github.com/Apoorva-mishra01/DSA/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Apoorva-mishra01/DSA/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/Apoorva-mishra01/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
