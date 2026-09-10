@@ -12,6 +12,7 @@
 | [0007-reverse-integer](https://github.com/Apoorva-mishra01/DSA/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Apoorva-mishra01/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Apoorva-mishra01/DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0509-fibonacci-number) |
 | [3870-count-commas-in-range](https://github.com/Apoorva-mishra01/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Apoorva-mishra01/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Apoorva-mishra01/DSA/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Apoorva-mishra01/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Apoorva-mishra01/DSA/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Apoorva-mishra01/DSA/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/Apoorva-mishra01/DSA/tree/master/0383-ransom-note) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Apoorva-mishra01/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
@@ -123,4 +126,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Apoorva-mishra01/DSA/tree/master/0383-ransom-note) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
