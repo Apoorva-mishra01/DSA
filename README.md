@@ -23,6 +23,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Apoorva-mishra01/DSA/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Apoorva-mishra01/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0136-single-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0136-single-number) |
 | [0228-summary-ranges](https://github.com/Apoorva-mishra01/DSA/tree/master/0228-summary-ranges) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Apoorva-mishra01/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Apoorva-mishra01/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Apoorva-mishra01/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Apoorva-mishra01/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Apoorva-mishra01/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -66,6 +68,7 @@
 | [0202-happy-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/Apoorva-mishra01/DSA/tree/master/0383-ransom-note) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Apoorva-mishra01/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Apoorva-mishra01/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -130,4 +133,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0202-happy-number) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Apoorva-mishra01/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
