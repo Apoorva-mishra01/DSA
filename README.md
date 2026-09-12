@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Apoorva-mishra01/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Apoorva-mishra01/DSA/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Apoorva-mishra01/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Apoorva-mishra01/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Apoorva-mishra01/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0202-happy-number) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Apoorva-mishra01/DSA/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Apoorva-mishra01/DSA/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Apoorva-mishra01/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
