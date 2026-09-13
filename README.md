@@ -68,6 +68,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Apoorva-mishra01/DSA/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Apoorva-mishra01/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Apoorva-mishra01/DSA/tree/master/0383-ransom-note) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Apoorva-mishra01/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Apoorva-mishra01/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -77,6 +78,7 @@
 | [0020-valid-parentheses](https://github.com/Apoorva-mishra01/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Apoorva-mishra01/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Apoorva-mishra01/DSA/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Apoorva-mishra01/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Apoorva-mishra01/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Apoorva-mishra01/DSA/tree/master/0392-is-subsequence) |
 ## Stack
@@ -139,4 +141,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Apoorva-mishra01/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Apoorva-mishra01/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
