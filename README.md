@@ -72,6 +72,7 @@
 | [0001-two-sum](https://github.com/Apoorva-mishra01/DSA/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Apoorva-mishra01/DSA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Apoorva-mishra01/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Apoorva-mishra01/DSA/tree/master/0383-ransom-note) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Apoorva-mishra01/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Apoorva-mishra01/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -83,6 +84,7 @@
 | [0058-length-of-last-word](https://github.com/Apoorva-mishra01/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Apoorva-mishra01/DSA/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Apoorva-mishra01/DSA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Apoorva-mishra01/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Apoorva-mishra01/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Apoorva-mishra01/DSA/tree/master/0392-is-subsequence) |
 ## Stack
