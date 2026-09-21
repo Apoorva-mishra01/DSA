@@ -17,6 +17,7 @@
 | [0202-happy-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0509-fibonacci-number) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Apoorva-mishra01/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/Apoorva-mishra01/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/Apoorva-mishra01/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Apoorva-mishra01/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Apoorva-mishra01/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -38,6 +39,7 @@
 | [0228-summary-ranges](https://github.com/Apoorva-mishra01/DSA/tree/master/0228-summary-ranges) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Apoorva-mishra01/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Apoorva-mishra01/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/Apoorva-mishra01/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Apoorva-mishra01/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Apoorva-mishra01/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Apoorva-mishra01/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -119,6 +121,7 @@
 | [0392-is-subsequence](https://github.com/Apoorva-mishra01/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0509-fibonacci-number) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Apoorva-mishra01/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/Apoorva-mishra01/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Memoization
 |  |
 | ------- |
