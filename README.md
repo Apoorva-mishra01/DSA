@@ -37,6 +37,7 @@
 | [0054-spiral-matrix](https://github.com/Apoorva-mishra01/DSA/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0136-single-number) |
 | [0228-summary-ranges](https://github.com/Apoorva-mishra01/DSA/tree/master/0228-summary-ranges) |
+| [0643-maximum-average-subarray-i](https://github.com/Apoorva-mishra01/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Apoorva-mishra01/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Apoorva-mishra01/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Apoorva-mishra01/DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -167,4 +168,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Apoorva-mishra01/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Apoorva-mishra01/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
