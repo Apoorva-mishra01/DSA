@@ -93,6 +93,7 @@
 | [0290-word-pattern](https://github.com/Apoorva-mishra01/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Apoorva-mishra01/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Apoorva-mishra01/DSA/tree/master/0392-is-subsequence) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Apoorva-mishra01/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
 | ------- |
@@ -169,4 +170,5 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Apoorva-mishra01/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Apoorva-mishra01/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Apoorva-mishra01/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
