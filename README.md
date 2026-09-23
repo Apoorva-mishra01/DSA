@@ -67,6 +67,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Apoorva-mishra01/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Apoorva-mishra01/DSA/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Apoorva-mishra01/DSA/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0242-valid-anagram](https://github.com/Apoorva-mishra01/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Apoorva-mishra01/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Apoorva-mishra01/DSA/tree/master/0383-ransom-note) |
+| [0567-permutation-in-string](https://github.com/Apoorva-mishra01/DSA/tree/master/0567-permutation-in-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Apoorva-mishra01/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Apoorva-mishra01/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Apoorva-mishra01/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -95,6 +97,7 @@
 | [0290-word-pattern](https://github.com/Apoorva-mishra01/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Apoorva-mishra01/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Apoorva-mishra01/DSA/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Apoorva-mishra01/DSA/tree/master/0567-permutation-in-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Apoorva-mishra01/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
@@ -173,6 +176,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Apoorva-mishra01/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Apoorva-mishra01/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Apoorva-mishra01/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Apoorva-mishra01/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Apoorva-mishra01/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
