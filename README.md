@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Apoorva-mishra01/DSA/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Apoorva-mishra01/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0392-is-subsequence](https://github.com/Apoorva-mishra01/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Apoorva-mishra01/DSA/tree/master/0567-permutation-in-string) |
 | [0856-score-of-parentheses](https://github.com/Apoorva-mishra01/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Apoorva-mishra01/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Apoorva-mishra01/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Apoorva-mishra01/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
@@ -106,12 +108,14 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Apoorva-mishra01/DSA/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Apoorva-mishra01/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Apoorva-mishra01/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Apoorva-mishra01/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Apoorva-mishra01/DSA/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Apoorva-mishra01/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Apoorva-mishra01/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Apoorva-mishra01/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
