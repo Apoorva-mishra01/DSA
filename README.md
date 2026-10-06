@@ -39,6 +39,7 @@
 | [0228-summary-ranges](https://github.com/Apoorva-mishra01/DSA/tree/master/0228-summary-ranges) |
 | [0643-maximum-average-subarray-i](https://github.com/Apoorva-mishra01/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Apoorva-mishra01/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Apoorva-mishra01/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Apoorva-mishra01/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Apoorva-mishra01/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Apoorva-mishra01/DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -140,6 +141,7 @@
 | [0392-is-subsequence](https://github.com/Apoorva-mishra01/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0509-fibonacci-number) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Apoorva-mishra01/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Apoorva-mishra01/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3524-find-x-value-of-array-i](https://github.com/Apoorva-mishra01/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Memoization
 |  |
