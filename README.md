@@ -39,6 +39,7 @@
 | [0228-summary-ranges](https://github.com/Apoorva-mishra01/DSA/tree/master/0228-summary-ranges) |
 | [0643-maximum-average-subarray-i](https://github.com/Apoorva-mishra01/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Apoorva-mishra01/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2540-minimum-common-value](https://github.com/Apoorva-mishra01/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Apoorva-mishra01/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Apoorva-mishra01/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Apoorva-mishra01/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -71,6 +72,7 @@
 | [0202-happy-number](https://github.com/Apoorva-mishra01/DSA/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Apoorva-mishra01/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Apoorva-mishra01/DSA/tree/master/0567-permutation-in-string) |
+| [2540-minimum-common-value](https://github.com/Apoorva-mishra01/DSA/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | [0383-ransom-note](https://github.com/Apoorva-mishra01/DSA/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Apoorva-mishra01/DSA/tree/master/0567-permutation-in-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Apoorva-mishra01/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2540-minimum-common-value](https://github.com/Apoorva-mishra01/DSA/tree/master/2540-minimum-common-value) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Apoorva-mishra01/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Apoorva-mishra01/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
@@ -155,6 +158,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Apoorva-mishra01/DSA/tree/master/0069-sqrtx) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Apoorva-mishra01/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2540-minimum-common-value](https://github.com/Apoorva-mishra01/DSA/tree/master/2540-minimum-common-value) |
 ## Newton's Method
 |  |
 | ------- |
