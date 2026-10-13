@@ -45,6 +45,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Apoorva-mishra01/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Apoorva-mishra01/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Apoorva-mishra01/DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Apoorva-mishra01/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Apoorva-mishra01/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Apoorva-mishra01/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Apoorva-mishra01/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Apoorva-mishra01/DSA/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Apoorva-mishra01/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Apoorva-mishra01/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +188,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Apoorva-mishra01/DSA/tree/master/0242-valid-anagram) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Apoorva-mishra01/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Combinatorics
 |  |
 | ------- |
