@@ -45,6 +45,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Apoorva-mishra01/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Apoorva-mishra01/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Apoorva-mishra01/DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Apoorva-mishra01/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Apoorva-mishra01/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Apoorva-mishra01/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Apoorva-mishra01/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Apoorva-mishra01/DSA/tree/master/0054-spiral-matrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Apoorva-mishra01/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -201,4 +203,16 @@
 | [0643-maximum-average-subarray-i](https://github.com/Apoorva-mishra01/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Apoorva-mishra01/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Apoorva-mishra01/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Depth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Apoorva-mishra01/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Apoorva-mishra01/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Apoorva-mishra01/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
